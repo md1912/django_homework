@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5bc8c45-5d10-4472-82b1-515830edcdb1" name="Changes" comment="" />
+    <list default="true" id="c5bc8c45-5d10-4472-82b1-515830edcdb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/book/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/book_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/djangoProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_hw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/90F76BB2-D303-47B2-A8FE-5AFE8E872036.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -47,6 +58,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +75,17 @@
       <workItem from="1652441179741" duration="40000" />
       <workItem from="1652441259634" duration="36000" />
       <workItem from="1652441322333" duration="544000" />
-      <workItem from="1652442119699" duration="4428000" />
+      <workItem from="1652442119699" duration="5323000" />
+      <workItem from="1652453920602" duration="137000" />
+      <workItem from="1652463936348" duration="49000" />
+      <workItem from="1652533991747" duration="63000" />
+      <workItem from="1652534363737" duration="49000" />
+      <workItem from="1652536940225" duration="539000" />
+      <workItem from="1652537485924" duration="10000" />
+      <workItem from="1652537776091" duration="2000" />
+      <workItem from="1652557561924" duration="651000" />
+      <workItem from="1652703694469" duration="663000" />
+      <workItem from="1652789856737" duration="3645000" />
     </task>
     <servers />
   </component>

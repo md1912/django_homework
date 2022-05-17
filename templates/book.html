@@ -9,6 +9,7 @@
     <ul>
         {% for book in books %}
         <li>
+            <img src="{{ book.image.url }}" alt="">
             <h2>{{ book.title }}</h2>
             <p>{{ book.description }}</p>
             <p>{{ book.created_date }}</p>
