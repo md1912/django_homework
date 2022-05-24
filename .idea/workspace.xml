@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5bc8c45-5d10-4472-82b1-515830edcdb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/book/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/migrations/0002_book_genre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_3r4VF2a.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_Tz0YY86.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_fSadEeB.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_jjg9X81.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_q4sPF8l.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/90F76BB2-D303-47B2-A8FE-5AFE8E872036_xTPMj7P.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/add_book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/book_update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/book/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/book/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/book.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +83,7 @@
       <workItem from="1652882202682" duration="644000" />
       <workItem from="1652885161908" duration="975000" />
       <workItem from="1652886181116" duration="2000" />
-      <workItem from="1653396387240" duration="6892000" />
+      <workItem from="1653396387240" duration="7572000" />
     </task>
     <servers />
   </component>
