@@ -14,6 +14,17 @@
             <p>{{ book.description }}</p>
             <p>{{ book.created_date }}</p>
             <p>{{ book.updated_date }}</p>
+            <div class="container">
+            <a href="/books/" class="btn btn-secondary books__button">All</a>
+            <a href="/books/latest/" class="btn btn-secondary books__button">Latest</a>
+            <a href="/books/drama/" class="btn btn-secondary books__button">Drama</a>
+            <a href="/books/horror/" class="btn btn-secondary books__button">Horror</a>
+            <a href="/books/comedy/" class="btn btn-secondary books__button">Comedy</a>
+            <a href="/books/fantasy/" class="btn btn-secondary books__button">Fantasy</a>
+            <a href="/books/manga/" class="btn btn-secondary books__button">Manga</a>
+            <a href="/books/romantic/" class="btn btn-secondary books__button">Romantic</a>
+            <a href="/books/action/" class="btn btn-secondary books__button">Action</a>
+            </div>
         </li>
         {% endfor %}
     </ul>
